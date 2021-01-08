@@ -1,0 +1,36 @@
+/*
+CSS Cajas Flotantes
+Diciembre 2020
+Alejandro Puente
+*/
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    padding: 20px;
+    border: solid black 3px;
+    width: 50%;
+    float: left;
+}
+
+.roja{
+    background-color: red;
+}
+
+.amarilla{
+    background-color: yellow;
+}
+
+.verde{
+    background-color: green;
+    clear: both;
+    width: 100%;
+}
+.azul{
+    background-color: blue;
+    clear: both;
+    width: 100%;
+}
