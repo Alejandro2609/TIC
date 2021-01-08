@@ -1,0 +1,26 @@
+/*
+    Alejandro06 CSS Hoja de Estilos
+    Moisés Fernández
+    Noviembre 2020
+*/
+html{
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: skyblue;
+}
+.contenedor{
+    background-color: white;
+    border: 3px dotted black;
+    padding: 10px;
+    margin: 20px;
+    width: 55%;
+    margin: auto;
+}
+
+ol{
+    list-style: upper-roman;
+}
+
+ul{
+    list-style: circle;
+}
